@@ -71,7 +71,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
 <!-- Versión compacta con iconos - RECOMENDADA -->
 <h3 align="center">Lenguajes y Herramientas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,js,html,css,tailwind,mysql,docker,git,github,vscode&perline=6" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,python,js,html,css,tailwind,mysql,docker,git,github,vscode,linux,ubuntu,figma&perline=6" alt="Tecnologías" />
 </p>
 
 <!-- Versión detallada en tabla - OPCIONAL: Puedes eliminar si prefieres solo los iconos -->
