@@ -81,7 +81,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
 <table>
   <tr>
     <td><b>Backend:</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel,spring,nodejs,express,nginx"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel,nodejs,express,nginx"/></td>
   </tr>
   <tr>
     <td><b>Frontend:</b></td>
@@ -97,7 +97,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
   </tr>
   <tr>
     <td><b>IDEs:</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,netbeans"/></td>
   </tr>
 </table>
 </details>
