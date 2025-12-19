@@ -10,9 +10,6 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Backend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80&font=Fira%20Code&center=true&width=440&height=45">
     </a>
   </p>
-  
-  <!-- Saludo animado - OPCIONAL: Puedes eliminar si prefieres más espacio -->
-  <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <!-- ============================================
@@ -85,7 +82,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
   </tr>
   <tr>
     <td><b>Frontend:</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/></td>
   </tr>
   <tr>
     <td><b>Base de Datos:</b></td>
@@ -97,7 +94,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
   </tr>
   <tr>
     <td><b>IDEs:</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,netbeans"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
   </tr>
 </table>
 </details>
@@ -109,7 +106,6 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
 
 <!-- TODO: Agrega enlaces cuando tengas tu portafolio listo -->
 - 🖥️ Sistema web en Laravel
-- ⚙️ Simuladores o herramientas académicas
 - 📊 Scripts y utilidades de automatización
 - ✨ Experimentos de aprendizaje
 
@@ -119,12 +115,15 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender 
 ## 📚 En lo que estoy trabajando
 
 - Construcción de mi portafolio.
-- Mejoras continuas en Laravel y Java.
+- Mejoras continuas en Laravel y React.
 - Nuevos proyectos para fortalecer backend, patrones y arquitectura.
 
 <!-- ============================================
      CONTACTO
      ============================================ -->
+<!-- Batman GIF -->
+<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%" style="position: relative; top:25px; border: 1px solid transparent">
+
 ## 📫 Cómo contactarme
 
 <!-- TODO: Agrega tus enlaces de redes sociales aquí -->
@@ -178,8 +177,8 @@ GitHub: **[@KevinHGitCode](https://github.com/KevinHGitCode)**
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <!-- Typing Animations adicionales -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Kevin+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Kevin+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+😎)](https://git.io/typing-svg)
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=28&duration=1700&pause=2500&color=F7103D&random=false&width=600&lines=Kevin+Here!;Backend+Developer+%26+Software+Engineer+%F0%9F%A5%B7;Coding+for+creativity%2C+building+for+impact+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%93%8DSomewhere+between+0's+and+1's.)](https://git.io/typing-svg)**
 
@@ -218,42 +217,10 @@ Current Project: <a href="https://github.com/KevinHGitCode">Portfolio en constru
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
-<!-- Batman GIF -->
-<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
 <!-- Crow Image -->
-<img align="left" src="https://orhun.dev/img/crow.png">
-
-<!-- WakaTime Stats (si lo usas) -->
-<details>
-<summary><b>📈 WakaTime Stats</b></summary>
-
-**🐱 My GitHub Data** 
-
-> 🏆 Contributions in the Year
-> 
-> 📦 Used in GitHub's Storage 
-> 
-> 📜 Public Repositories 
-> 
-> 🔑 Private Repositories  
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-🌆 Daytime    274 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
-🌃 Evening    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░   19.68%
-```
-</details>
-
-<!-- Visitor Counter adicional -->
-<p align="left">
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KevinHGitCode&repo=KevinHGitCode&countColorcountColor&countColor=%237B1E7B"/>
-</p>
-
-</details>
+<img src="https://orhun.dev/img/crow.png">
+<br>
 
 ---
 <div align="center">
