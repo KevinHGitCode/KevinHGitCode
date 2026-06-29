@@ -19,7 +19,7 @@
 
 Soy un estudiante de Ingeniería de Sistemas apasionado por construir, aprender y compartir proyectos que integren **desarrollo web**, **backend**, **bases de datos**, **contenedores** y experimentación constante.
 
-- Actualmente curso **octavo semestre** de Ingeniería de Sistemas.
+- Actualmente curso **decimo semestre** de Ingeniería de Sistemas.
 - Me interesa la **investigación**, el desarrollo de software y la creación de soluciones prácticas.
 - Busco mejorar mis habilidades creando proyectos reales y colaborando en ideas con impacto.
 
