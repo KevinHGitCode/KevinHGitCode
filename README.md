@@ -22,7 +22,7 @@ escribo código, pienso en el negocio detrás.
 |---|---|---|
 | **Aura** | Control de asistencia por QR con estadísticas en vivo (en uso en la Universidad de La Guajira) | [Caso de estudio](https://github.com/KevinHGitCode/aura-showcase) · [Demo](https://asistencia.desarrollougmaicao.com) |
 | **SchoolApp** | Plataforma de gestión escolar (Laravel + React/TS) | *Caso de estudio en camino* |
-| **Inventario Uniguajira** | Gestión de inventario universitario (Laravel 12) | [Repo](https://github.com/KevinHGitCode/Inventario-Uniguajira-Laravel12) |
+| **Inventario Uniguajira** | Gestión de inventario universitario (Laravel 12) | [Repo](https://github.com/KevinHGitCode/Inventario-Uniguajira-v2) |
 | **HevyAPI** | CLI en Python para analizar datos de entrenamiento | [Repo](https://github.com/KevinHGitCode/HevyAPI) |
 
 ## 🛠️ Tecnologías
