@@ -40,6 +40,7 @@ Cada proyecto tiene un caso de estudio público; el código de los productos es 
 ## 📫 Contacto
 
 - **LinkedIn:** [Kevin Díaz García](https://www.linkedin.com/in/kevin-diaz-garcia-846999240/)
+- **Instagram:** [@kevin.hdiaz](https://www.instagram.com/kevin.hdiaz/)
 - **Email:** kevinhafiddiazgarcia@gmail.com
 - **Blog:** [kevinhdiaz.com](https://kevinhdiaz.com)
 
