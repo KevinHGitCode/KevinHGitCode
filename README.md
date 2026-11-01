@@ -1,11 +1,14 @@
 <div align="center">
 
-# Kevin Díaz — Desarrollador Full-Stack
+# Kevin Díaz — Full-Stack Developer
 
-**Laravel · React · TypeScript · Python**
-Construyo sistemas de gestión y aplicaciones web a la medida.
+**Full-stack developer · Laravel, React, TypeScript, Python · Open to remote work · UTC-5**
 
 </div>
+
+Hi, I'm Kevin. I build full-stack web products, from the data model and backend to the interface.
+I work on Aura, a QR attendance system used at Universidad de La Guajira, mostly with Laravel and React.
+I'm looking for remote roles; the case studies below are the best way to see how I work.
 
 ## 🚀 Sobre mí
 
@@ -18,12 +21,15 @@ escribo código, pienso en el negocio detrás.
 
 ## 📌 Proyectos destacados
 
+Cada proyecto tiene un caso de estudio público; el código de los productos es privado y lo muestro en una entrevista técnica.
+
 | Proyecto | Qué es | Enlaces |
 |---|---|---|
 | **Aura** | Control de asistencia por QR con estadísticas en vivo (en uso en la Universidad de La Guajira) | [Caso de estudio](https://github.com/KevinHGitCode/aura-showcase) · [Demo](https://asistencia.desarrollougmaicao.com) |
-| **SchoolApp** | Plataforma de gestión escolar (Laravel + React/TS) | *Caso de estudio en camino* |
-| **Inventario Uniguajira** | Gestión de inventario universitario (Laravel 12) | [Repo](https://github.com/KevinHGitCode/Inventario-Uniguajira-v2) |
-| **HevyAPI** | CLI en Python para analizar datos de entrenamiento | [Repo](https://github.com/KevinHGitCode/HevyAPI) |
+| **SchoolApp** | Plataforma de gestión escolar multi-colegio (Laravel + React/TS) | [Caso de estudio](https://github.com/KevinHGitCode/schoolapp-showcase) |
+| **Passo** | App para aprender piano y guitarra con corrección al instante, escuchando por micrófono | [Caso de estudio](https://github.com/KevinHGitCode/passo-showcase) |
+| **Inventario Uniguajira** | Inventario de bienes de la universidad (Laravel 12), hecho en equipo | [Caso de estudio](https://github.com/KevinHGitCode/inventario-showcase) |
+| **Speek control** | Análisis de voz 100 % local: tono, ritmo, pausas y muletillas | [Caso de estudio](https://github.com/KevinHGitCode/speek-control-showcase) |
 
 ## 🛠️ Tecnologías
 
@@ -42,8 +48,13 @@ escribo código, pienso en el negocio detrás.
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Backend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80&font=Fira%20Code&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Laravel%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Python;Open%20to%20remote%20work;Feel%20free%20to%20look%20around%20%F0%9F%91%80&font=Fira%20Code&center=true&width=520&height=45" alt="Full-Stack Developer">
 </a>
+
+<br>
+
+<details>
+<summary>🎮 Un poco de pixel art</summary>
 
 <br>
 
@@ -52,5 +63,6 @@ escribo código, pienso en el negocio detrás.
 <img alt="Bonfire" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="120">
 <img alt="Gato astronauta" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90">
 
-</div>
+</details>
 
+</div>
